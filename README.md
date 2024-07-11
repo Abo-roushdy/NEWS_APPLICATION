@@ -1,2 +1,2 @@
 # NEWS_APPLICATION
-for project mobile 
+# for project mobile 
